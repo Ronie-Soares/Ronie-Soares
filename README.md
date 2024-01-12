@@ -1,5 +1,4 @@
 <h2>😄Olá!</h2>
-<br>
 
 Me chamo Ronie Soares, sou um apaixonado por motos e um entusiata em tecnologia, acredito que a bondade é caminho para quem busca Paz e Felicidade. Sou formado em desenvolvimento de sistemas com foco em desenvolvimento Web.
 
